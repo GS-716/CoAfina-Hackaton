@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-NB_PATH="vendor/notebooks-collection-opendata/13-TeV-examples/uproot_python/HyyAnalysis.ipynb"
+NB_PATH="vendor/opendata-local/13-TeV-examples/uproot_python/HyyAnalysis.ipynb"
 BUILD_DIR="build"   # donde se ejecuta el ipynb
 SITE_DIR="docs"     # lo que se publica como Pages
 
