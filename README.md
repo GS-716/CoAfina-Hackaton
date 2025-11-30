@@ -1,5 +1,7 @@
 # Physics on Autopilot (prototipo)
 
+Team: Guillermo Jordán, Nicole Fernández, Abel Loayza
+
 Repositorio para el **Reto 6: El Físico Remoto (Physics on Autopilot)** — un flujo CI/CD que, a partir de cambios en el código, ejecuta un análisis reproducible sobre **ATLAS Open Data** y publica resultados actualizados en una web estática.
 
 ## 🔗 Video del Reto 6:
